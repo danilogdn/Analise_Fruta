@@ -1,6 +1,6 @@
 # Analise_Fruta
 
-Algoritmo machine learning de aprendizado supervisionado com dados rotulados que irá prever com base nos dados (Brix, Acidez, Ratio e Peso Grama) qual variedade está sendo analisada. 
+Algoritmo de machine learning aprendizado supervisionado com dados rotulados que irá prever com base nos dados (Brix, Acidez, Ratio e Peso Grama) qual variedade está sendo analisada. 
  
 Nesse cenário, teremos: 
 X = Brix, Acidez, Ratio e peso grama 
